@@ -166,7 +166,7 @@ public void i_validate_that_password_retrieval_page_is_displayed() {
 @Then("I enter registered email in email address text box")
 public void i_enter_registered_email_in_email_address_text_box() {
     
-	wd.findElement(By.name("email")).sendKeys("ptelharkar2@mailinator.com");
+	wd.findElement(By.name("email")).sendKeys("ptelharkar8@mailinator.com");
 }
 
 @Then("click on Continue button on forgot password page")
