@@ -17,7 +17,7 @@ public class App {
 	        // IE=ie
 	        // InternetExplorerDriver
 	        System.setProperty("webdriver.chrome.driver",
-	                "C:\\Users\\028165744\\eclipse-workspace\\selenium\\Drivers\\chromedriver.exe");
+	                "C:\\Users\\028165744\\git\\SDET\\selenium\\Drivers\\chromedriver.exe");
 	        WebDriver wd = new ChromeDriver();
 	        wd.manage().window().maximize();
 	        Thread.sleep(2000);

@@ -1,0 +1,3 @@
+27/10/2021 18:31:36 devpinoyLogger started
+27/10/2021 18:31:38 devpinoyLogger <b>Warning</b>: mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100508 Library:100236 in <b>/home/u942925711/domains/upskills.in/public_html/rest-api/system/library/db/mysqli.php</b> on line <b>7</b>{"success":1,"error":[],"data":[]}
+27/10/2021 18:31:38 devpinoyLogger ended
